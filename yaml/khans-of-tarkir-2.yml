@@ -1,0 +1,117 @@
+---
+object: card
+id: 21ee4f3c-dc94-4156-b0ed-60fe6310451a
+oracle_id: 8b972819-507a-40a9-ab1f-1a674ea56083
+multiverse_ids:
+- 386468
+mtgo_id: 54272
+mtgo_foil_id: 54273
+tcgplayer_id: 93185
+cardmarket_id: 269422
+name: Abzan Falconer
+lang: en
+released_at: '2014-09-26'
+uri: https://api.scryfall.com/cards/21ee4f3c-dc94-4156-b0ed-60fe6310451a
+scryfall_uri: https://scryfall.com/card/ktk/2/abzan-falconer?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/1/21ee4f3c-dc94-4156-b0ed-60fe6310451a.jpg?1562783594
+  normal: https://cards.scryfall.io/normal/front/2/1/21ee4f3c-dc94-4156-b0ed-60fe6310451a.jpg?1562783594
+  large: https://cards.scryfall.io/large/front/2/1/21ee4f3c-dc94-4156-b0ed-60fe6310451a.jpg?1562783594
+  png: https://cards.scryfall.io/png/front/2/1/21ee4f3c-dc94-4156-b0ed-60fe6310451a.png?1562783594
+  art_crop: https://cards.scryfall.io/art_crop/front/2/1/21ee4f3c-dc94-4156-b0ed-60fe6310451a.jpg?1562783594
+  border_crop: https://cards.scryfall.io/border_crop/front/2/1/21ee4f3c-dc94-4156-b0ed-60fe6310451a.jpg?1562783594
+mana_cost: "{2}{W}"
+cmc: 3.0
+type_line: Creature — Human Soldier
+oracle_text: |-
+  Outlast {W} ({W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
+  Each creature you control with a +1/+1 counter on it has flying.
+power: '2'
+toughness: '3'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Outlast
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 6c7a715c-ded9-449e-89b0-c665773e9c3c
+set: ktk
+set_name: Khans of Tarkir
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/6c7a715c-ded9-449e-89b0-c665773e9c3c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aktk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ktk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/21ee4f3c-dc94-4156-b0ed-60fe6310451a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8b972819-507a-40a9-ab1f-1a674ea56083&unique=prints
+collector_number: '2'
+digital: false
+rarity: uncommon
+watermark: abzan
+flavor_text: The fastest way across the dunes is above.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Steven Belledin
+artist_ids:
+- f07d73b9-52a0-4fe5-858b-61f7b42174a5
+illustration_id: 3ef04134-5c97-48d1-b6fb-13273c091ddc
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 1335
+penny_rank: 5299
+prices:
+  usd: '0.12'
+  usd_foil: '2.70'
+  usd_etched: 
+  eur: '0.20'
+  eur_foil: '0.49'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386468
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Abzan+Falconer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Abzan+Falconer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Abzan+Falconer
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/93185?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Abzan+Falconer&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/54272?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

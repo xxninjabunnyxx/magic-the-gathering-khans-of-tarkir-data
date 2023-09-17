@@ -1,0 +1,114 @@
+---
+object: card
+id: e42f5aa9-2a47-47c3-ab87-dc25735b0e54
+oracle_id: f3e025ce-6114-42d0-842f-73366c853657
+multiverse_ids:
+- 386489
+mtgo_id: 54006
+mtgo_foil_id: 54007
+tcgplayer_id: 92840
+cardmarket_id: 269182
+name: Bitter Revelation
+lang: en
+released_at: '2014-09-26'
+uri: https://api.scryfall.com/cards/e42f5aa9-2a47-47c3-ab87-dc25735b0e54
+scryfall_uri: https://scryfall.com/card/ktk/65/bitter-revelation?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/4/e42f5aa9-2a47-47c3-ab87-dc25735b0e54.jpg?1562795020
+  normal: https://cards.scryfall.io/normal/front/e/4/e42f5aa9-2a47-47c3-ab87-dc25735b0e54.jpg?1562795020
+  large: https://cards.scryfall.io/large/front/e/4/e42f5aa9-2a47-47c3-ab87-dc25735b0e54.jpg?1562795020
+  png: https://cards.scryfall.io/png/front/e/4/e42f5aa9-2a47-47c3-ab87-dc25735b0e54.png?1562795020
+  art_crop: https://cards.scryfall.io/art_crop/front/e/4/e42f5aa9-2a47-47c3-ab87-dc25735b0e54.jpg?1562795020
+  border_crop: https://cards.scryfall.io/border_crop/front/e/4/e42f5aa9-2a47-47c3-ab87-dc25735b0e54.jpg?1562795020
+mana_cost: "{3}{B}"
+cmc: 4.0
+type_line: Sorcery
+oracle_text: Look at the top four cards of your library. Put two of them into your
+  hand and the rest into your graveyard. You lose 2 life.
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 6c7a715c-ded9-449e-89b0-c665773e9c3c
+set: ktk
+set_name: Khans of Tarkir
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/6c7a715c-ded9-449e-89b0-c665773e9c3c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aktk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ktk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e42f5aa9-2a47-47c3-ab87-dc25735b0e54/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af3e025ce-6114-42d0-842f-73366c853657&unique=prints
+collector_number: '65'
+digital: false
+rarity: common
+flavor_text: |-
+  "Here you lie then, Ugin. The corpses of worlds will join you in the tomb."
+  —Sorin Markov
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Viktor Titov
+artist_ids:
+- 2270c0b0-afb4-42b0-bcb6-25fe4ad6eef2
+illustration_id: 86c7facc-f42f-404c-bf8c-a81c5232fd7a
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 11308
+penny_rank: 9898
+prices:
+  usd: '0.03'
+  usd_foil: '0.24'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.13'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386489
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Bitter+Revelation&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Bitter+Revelation&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Bitter+Revelation
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/92840?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Bitter+Revelation&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/54006?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

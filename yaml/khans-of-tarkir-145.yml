@@ -1,0 +1,114 @@
+---
+object: card
+id: 83456f8f-8a1a-403c-816b-25e454ba1edf
+oracle_id: 9d83a1d3-ef0f-4134-a38b-c992d396592b
+multiverse_ids:
+- 386639
+mtgo_id: 54398
+mtgo_foil_id: 54399
+tcgplayer_id: 93301
+cardmarket_id: 269518
+name: Roar of Challenge
+lang: en
+released_at: '2014-09-26'
+uri: https://api.scryfall.com/cards/83456f8f-8a1a-403c-816b-25e454ba1edf
+scryfall_uri: https://scryfall.com/card/ktk/145/roar-of-challenge?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/3/83456f8f-8a1a-403c-816b-25e454ba1edf.jpg?1562789481
+  normal: https://cards.scryfall.io/normal/front/8/3/83456f8f-8a1a-403c-816b-25e454ba1edf.jpg?1562789481
+  large: https://cards.scryfall.io/large/front/8/3/83456f8f-8a1a-403c-816b-25e454ba1edf.jpg?1562789481
+  png: https://cards.scryfall.io/png/front/8/3/83456f8f-8a1a-403c-816b-25e454ba1edf.png?1562789481
+  art_crop: https://cards.scryfall.io/art_crop/front/8/3/83456f8f-8a1a-403c-816b-25e454ba1edf.jpg?1562789481
+  border_crop: https://cards.scryfall.io/border_crop/front/8/3/83456f8f-8a1a-403c-816b-25e454ba1edf.jpg?1562789481
+mana_cost: "{2}{G}"
+cmc: 3.0
+type_line: Sorcery
+oracle_text: |-
+  All creatures able to block target creature this turn do so.
+  Ferocious — That creature gains indestructible until end of turn if you control a creature with power 4 or greater.
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Ferocious
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 6c7a715c-ded9-449e-89b0-c665773e9c3c
+set: ktk
+set_name: Khans of Tarkir
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/6c7a715c-ded9-449e-89b0-c665773e9c3c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aktk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ktk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/83456f8f-8a1a-403c-816b-25e454ba1edf/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9d83a1d3-ef0f-4134-a38b-c992d396592b&unique=prints
+collector_number: '145'
+digital: false
+rarity: uncommon
+watermark: temur
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Viktor Titov
+artist_ids:
+- 2270c0b0-afb4-42b0-bcb6-25fe4ad6eef2
+illustration_id: e0699c83-dc02-49b7-82bb-5502d830a417
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 7224
+penny_rank: 10088
+prices:
+  usd: '0.19'
+  usd_foil: '0.66'
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: '0.15'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386639
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Roar+of+Challenge&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Roar+of+Challenge&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Roar+of+Challenge
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/93301?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Roar+of+Challenge&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/54398?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

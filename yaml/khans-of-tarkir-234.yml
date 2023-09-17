@@ -1,0 +1,121 @@
+---
+object: card
+id: e4335951-e73e-45cb-b2a5-6e9d14ba87ee
+oracle_id: e4cf6c2f-0f1e-4980-9ef9-e4eabcae42a9
+multiverse_ids:
+- 386544
+mtgo_id: 54168
+mtgo_foil_id: 54169
+tcgplayer_id: 92984
+cardmarket_id: 269347
+name: Frontier Bivouac
+lang: en
+released_at: '2014-09-26'
+uri: https://api.scryfall.com/cards/e4335951-e73e-45cb-b2a5-6e9d14ba87ee
+scryfall_uri: https://scryfall.com/card/ktk/234/frontier-bivouac?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/4/e4335951-e73e-45cb-b2a5-6e9d14ba87ee.jpg?1562795027
+  normal: https://cards.scryfall.io/normal/front/e/4/e4335951-e73e-45cb-b2a5-6e9d14ba87ee.jpg?1562795027
+  large: https://cards.scryfall.io/large/front/e/4/e4335951-e73e-45cb-b2a5-6e9d14ba87ee.jpg?1562795027
+  png: https://cards.scryfall.io/png/front/e/4/e4335951-e73e-45cb-b2a5-6e9d14ba87ee.png?1562795027
+  art_crop: https://cards.scryfall.io/art_crop/front/e/4/e4335951-e73e-45cb-b2a5-6e9d14ba87ee.jpg?1562795027
+  border_crop: https://cards.scryfall.io/border_crop/front/e/4/e4335951-e73e-45cb-b2a5-6e9d14ba87ee.jpg?1562795027
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  Frontier Bivouac enters the battlefield tapped.
+  {T}: Add {G}, {U}, or {R}.
+colors: []
+color_identity:
+- G
+- R
+- U
+keywords: []
+produced_mana:
+- G
+- R
+- U
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 6c7a715c-ded9-449e-89b0-c665773e9c3c
+set: ktk
+set_name: Khans of Tarkir
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/6c7a715c-ded9-449e-89b0-c665773e9c3c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aktk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ktk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e4335951-e73e-45cb-b2a5-6e9d14ba87ee/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae4cf6c2f-0f1e-4980-9ef9-e4eabcae42a9&unique=prints
+collector_number: '234'
+digital: false
+rarity: uncommon
+watermark: temur
+flavor_text: |-
+  "The most powerful dreams visit those who shelter in a dragon's skull."
+  —Chianul, Who Whispers Twice
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Titus Lunter
+artist_ids:
+- b11e6b3a-f4ca-4cf1-8fd7-475696de5f5c
+illustration_id: 0e8bf215-f0b9-4475-9a8e-b6e9a7abe0d5
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 466
+penny_rank: 314
+prices:
+  usd: '0.28'
+  usd_foil: '6.25'
+  usd_etched: 
+  eur: '0.28'
+  eur_foil: '1.75'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386544
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Frontier+Bivouac&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Frontier+Bivouac&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Frontier+Bivouac
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/92984?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Frontier+Bivouac&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/54168?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

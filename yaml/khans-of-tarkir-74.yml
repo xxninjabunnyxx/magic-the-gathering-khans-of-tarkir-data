@@ -1,0 +1,118 @@
+---
+object: card
+id: a7492918-b3c6-468f-9484-d73f0a27b37b
+oracle_id: fc1256e9-eb92-43b6-abfc-ce19d910a929
+multiverse_ids:
+- 386549
+mtgo_id: 54098
+mtgo_foil_id: 54099
+tcgplayer_id: 93247
+cardmarket_id: 269471
+name: Gurmag Swiftwing
+lang: en
+released_at: '2014-09-26'
+uri: https://api.scryfall.com/cards/a7492918-b3c6-468f-9484-d73f0a27b37b
+scryfall_uri: https://scryfall.com/card/ktk/74/gurmag-swiftwing?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/7/a7492918-b3c6-468f-9484-d73f0a27b37b.jpg?1562791583
+  normal: https://cards.scryfall.io/normal/front/a/7/a7492918-b3c6-468f-9484-d73f0a27b37b.jpg?1562791583
+  large: https://cards.scryfall.io/large/front/a/7/a7492918-b3c6-468f-9484-d73f0a27b37b.jpg?1562791583
+  png: https://cards.scryfall.io/png/front/a/7/a7492918-b3c6-468f-9484-d73f0a27b37b.png?1562791583
+  art_crop: https://cards.scryfall.io/art_crop/front/a/7/a7492918-b3c6-468f-9484-d73f0a27b37b.jpg?1562791583
+  border_crop: https://cards.scryfall.io/border_crop/front/a/7/a7492918-b3c6-468f-9484-d73f0a27b37b.jpg?1562791583
+mana_cost: "{1}{B}"
+cmc: 2.0
+type_line: Creature — Bat
+oracle_text: Flying, first strike, haste
+power: '1'
+toughness: '2'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Flying
+- First strike
+- Haste
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 6c7a715c-ded9-449e-89b0-c665773e9c3c
+set: ktk
+set_name: Khans of Tarkir
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/6c7a715c-ded9-449e-89b0-c665773e9c3c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aktk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ktk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a7492918-b3c6-468f-9484-d73f0a27b37b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afc1256e9-eb92-43b6-abfc-ce19d910a929&unique=prints
+collector_number: '74'
+digital: false
+rarity: uncommon
+flavor_text: |-
+  "Anything a falcon can do, a bat can do in pitch darkness."
+  —Urdnan the Wanderer
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jeff Simpson
+artist_ids:
+- bb21cc10-54bf-4d10-b90c-72ba55dd3d37
+illustration_id: 05226f34-02aa-45f2-b955-0adae110618b
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 11932
+penny_rank: 9069
+prices:
+  usd: '0.15'
+  usd_foil: '0.77'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '1.15'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386549
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Gurmag+Swiftwing&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Gurmag+Swiftwing&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Gurmag+Swiftwing
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/93247?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Gurmag+Swiftwing&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/54098?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

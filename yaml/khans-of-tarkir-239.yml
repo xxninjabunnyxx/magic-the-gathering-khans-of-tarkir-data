@@ -1,0 +1,110 @@
+---
+object: card
+id: ff2f5f58-9a95-4ca6-93a0-813738f0072f
+oracle_id: ef86989d-ce80-4e55-aece-7d11710eeffa
+multiverse_ids:
+- 386627
+mtgo_id: 54196
+mtgo_foil_id: 54197
+tcgplayer_id: 92829
+cardmarket_id: 269126
+name: Polluted Delta
+lang: en
+released_at: '2014-09-26'
+uri: https://api.scryfall.com/cards/ff2f5f58-9a95-4ca6-93a0-813738f0072f
+scryfall_uri: https://scryfall.com/card/ktk/239/polluted-delta?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/f/ff2f5f58-9a95-4ca6-93a0-813738f0072f.jpg?1571667978
+  normal: https://cards.scryfall.io/normal/front/f/f/ff2f5f58-9a95-4ca6-93a0-813738f0072f.jpg?1571667978
+  large: https://cards.scryfall.io/large/front/f/f/ff2f5f58-9a95-4ca6-93a0-813738f0072f.jpg?1571667978
+  png: https://cards.scryfall.io/png/front/f/f/ff2f5f58-9a95-4ca6-93a0-813738f0072f.png?1571667978
+  art_crop: https://cards.scryfall.io/art_crop/front/f/f/ff2f5f58-9a95-4ca6-93a0-813738f0072f.jpg?1571667978
+  border_crop: https://cards.scryfall.io/border_crop/front/f/f/ff2f5f58-9a95-4ca6-93a0-813738f0072f.jpg?1571667978
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: "{T}, Pay 1 life, Sacrifice Polluted Delta: Search your library for an
+  Island or Swamp card, put it onto the battlefield, then shuffle."
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: banned
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 6c7a715c-ded9-449e-89b0-c665773e9c3c
+set: ktk
+set_name: Khans of Tarkir
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/6c7a715c-ded9-449e-89b0-c665773e9c3c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aktk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ktk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ff2f5f58-9a95-4ca6-93a0-813738f0072f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aef86989d-ce80-4e55-aece-7d11710eeffa&unique=prints
+collector_number: '239'
+digital: false
+rarity: rare
+flavor_text: Where dragons once prevailed, their bones now sink.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Vincent Proce
+artist_ids:
+- d82b1138-76d3-49f7-9d8c-bc2e2d3e0b0a
+illustration_id: 5f2c7a0c-3079-4cb8-8b76-36250bb1130a
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 54
+prices:
+  usd: '34.18'
+  usd_foil: '57.46'
+  usd_etched: 
+  eur: '31.13'
+  eur_foil: '44.69'
+  tix: '10.26'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386627
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Polluted+Delta&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Polluted+Delta&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Polluted+Delta
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/92829?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Polluted+Delta&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/54196?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

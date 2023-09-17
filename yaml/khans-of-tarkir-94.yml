@@ -1,0 +1,115 @@
+---
+object: card
+id: a232d196-490d-4712-b2a2-466751b28d11
+oracle_id: 00bcfbaf-cd31-4688-973e-4238749051b7
+multiverse_ids:
+- 386710
+mtgo_id: 53992
+mtgo_foil_id: 53993
+tcgplayer_id: 93249
+cardmarket_id: 269484
+name: Unyielding Krumar
+lang: en
+released_at: '2014-09-26'
+uri: https://api.scryfall.com/cards/a232d196-490d-4712-b2a2-466751b28d11
+scryfall_uri: https://scryfall.com/card/ktk/94/unyielding-krumar?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/2/a232d196-490d-4712-b2a2-466751b28d11.jpg?1562791316
+  normal: https://cards.scryfall.io/normal/front/a/2/a232d196-490d-4712-b2a2-466751b28d11.jpg?1562791316
+  large: https://cards.scryfall.io/large/front/a/2/a232d196-490d-4712-b2a2-466751b28d11.jpg?1562791316
+  png: https://cards.scryfall.io/png/front/a/2/a232d196-490d-4712-b2a2-466751b28d11.png?1562791316
+  art_crop: https://cards.scryfall.io/art_crop/front/a/2/a232d196-490d-4712-b2a2-466751b28d11.jpg?1562791316
+  border_crop: https://cards.scryfall.io/border_crop/front/a/2/a232d196-490d-4712-b2a2-466751b28d11.jpg?1562791316
+mana_cost: "{3}{B}"
+cmc: 4.0
+type_line: Creature — Orc Warrior
+oracle_text: "{1}{W}: Unyielding Krumar gains first strike until end of turn."
+power: '3'
+toughness: '3'
+colors:
+- B
+color_identity:
+- B
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 6c7a715c-ded9-449e-89b0-c665773e9c3c
+set: ktk
+set_name: Khans of Tarkir
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/6c7a715c-ded9-449e-89b0-c665773e9c3c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aktk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ktk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a232d196-490d-4712-b2a2-466751b28d11/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A00bcfbaf-cd31-4688-973e-4238749051b7&unique=prints
+collector_number: '94'
+digital: false
+rarity: common
+watermark: abzan
+flavor_text: '"The man whom I call father killed the orc who sired me, offering his
+  world and his blade in return."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Viktor Titov
+artist_ids:
+- 2270c0b0-afb4-42b0-bcb6-25fe4ad6eef2
+illustration_id: 834e26ac-312f-4679-8cc5-ec1e7621ff0e
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 22746
+prices:
+  usd: '0.04'
+  usd_foil: '0.24'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.10'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386710
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Unyielding+Krumar&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Unyielding+Krumar&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Unyielding+Krumar
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/93249?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Unyielding+Krumar&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/53992?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
